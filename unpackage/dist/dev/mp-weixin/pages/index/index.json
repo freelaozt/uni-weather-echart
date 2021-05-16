@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "天气预报",
+  "usingComponents": {
+    "uni-ec-canvas": "/components/uni-ec-canvas/uni-ec-canvas"
+  }
+}
